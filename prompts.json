@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "seo-blog-generator",
+    "title": "SEO Blog Generator",
+    "seoTitle": "SEO Blog Generator Prompt for High-Ranking Content",
+    "metaDescription": "Generate long-form, high-ranking SEO blog posts using this optimized AI prompt.",
+    "category": "marketing",
+    "tags": ["seo", "blog-writing", "content-marketing"],
+    "image": "seo-blog-generator.png",
+    "prompt": "Write a 1000-word SEO optimized blog post about [TOPIC]. Include keyword placement, headings (H2, H3), meta description, FAQs, and internal linking suggestions.",
+    "featured": true,
+    "date": "2026-03-01",
+    "difficulty": "beginner",
+    "tool": ["chatgpt"],
+    "estimatedOutput": "1000-1500 words"
+  },
+  {
+    "slug": "youtube-script-writer",
+    "title": "YouTube Script Writer",
+    "seoTitle": "YouTube Script Writing AI Prompt for Viral Videos",
+    "metaDescription": "Create engaging YouTube scripts with hooks, storytelling and strong CTAs.",
+    "category": "video",
+    "tags": ["youtube", "script-writing", "content-creation"],
+    "image": "youtube-script-writer.png",
+    "prompt": "Write a high-retention YouTube script about [TOPIC]. Start with a strong hook, include storytelling, engagement triggers, and a strong call-to-action.",
+    "featured": true,
+    "date": "2026-03-02",
+    "difficulty": "beginner",
+    "tool": ["chatgpt"],
+    "estimatedOutput": "8-12 minute script"
+  }
+]
