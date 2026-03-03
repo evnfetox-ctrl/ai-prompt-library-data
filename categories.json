@@ -3,5 +3,16 @@
   { "slug": "video", "name": "Video", "description": "Prompts for YouTube scripts and video content creation." },
   { "slug": "sales", "name": "Sales", "description": "Cold emails, outreach and sales copy prompts." },
   { "slug": "ecommerce", "name": "E-commerce", "description": "Product descriptions and online store prompts." },
-  { "slug": "social-media", "name": "Social Media", "description": "Instagram, Twitter and engagement prompts." }
+  { "slug": "social-media", "name": "Social Media", "description": "Instagram, Twitter and engagement prompts." },
+  { "slug": "copywriting", "name": "Copywriting", "description": "Ad copy, landing pages, and persuasive writing prompts." },
+  { "slug": "content-creation", "name": "Content Creation", "description": "Blog posts, articles, and long-form content prompts." },
+  { "slug": "email-marketing", "name": "Email Marketing", "description": "Newsletter campaigns, email sequences and automation prompts." },
+  { "slug": "seo", "name": "SEO", "description": "Keyword research, meta descriptions, and SEO optimization prompts." },
+  { "slug": "ppc-advertising", "name": "PPC Advertising", "description": "Google Ads, Facebook Ads, and paid advertising copy prompts." },
+  { "slug": "branding", "name": "Branding", "description": "Brand voice, positioning, and messaging strategy prompts." },
+  { "slug": "customer-service", "name": "Customer Service", "description": "Support responses, FAQs, and customer communication prompts." },
+  { "slug": "product-management", "name": "Product Management", "description": "Product roadmaps, features, and user story prompts." },
+  { "slug": "design", "name": "Design", "description": "UI/UX copy, design briefs, and visual design prompts." },
+  { "slug": "business-strategy", "name": "Business Strategy", "description": "Business plans, market analysis, and strategic planning prompts." },
+  { "slug": "education", "name": "Education", "description": "Course creation, lesson plans, and educational content prompts." }
 ]
