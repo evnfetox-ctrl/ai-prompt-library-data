@@ -1,0 +1,7 @@
+[
+  { "slug": "marketing", "name": "Marketing", "description": "AI prompts for SEO, content marketing and growth strategies." },
+  { "slug": "video", "name": "Video", "description": "Prompts for YouTube scripts and video content creation." },
+  { "slug": "sales", "name": "Sales", "description": "Cold emails, outreach and sales copy prompts." },
+  { "slug": "ecommerce", "name": "E-commerce", "description": "Product descriptions and online store prompts." },
+  { "slug": "social-media", "name": "Social Media", "description": "Instagram, Twitter and engagement prompts." }
+]
