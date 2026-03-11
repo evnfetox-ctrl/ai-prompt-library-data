@@ -21,6 +21,128 @@
         ],
         "estimatedOutput": "1000-1500 words"
     },
+
+  {
+    "slug": "triple-frame-cinematic-portrait",
+    "title": "Triple Frame Cinematic Portrait",
+    "seoTitle": "Triple Frame Cinematic Portrait AI Image Prompt",
+    "metaDescription": "Generate a cinematic triple-frame portrait sequence with vintage film grain and dramatic urban night lighting.",
+    "category": "images",
+    "tags": [
+      "cinematic",
+      "portrait",
+      "film-grain",
+      "night-photography"
+    ],
+    "image": "triple-frame-cinematic-portrait.png",
+    "prompt": "Triple frame cinematic portrait sequence, three horizontal frames only. A young man with textured wavy hair, calm smile, white dress shirt slightly unbuttoned and a loose black tie. Frame 1: leaning casually against a railing looking directly at camera. Frame 2: side angle portrait looking toward distant glowing lights. Frame 3: relaxed downward pose holding the tie lightly. Urban night background with soft blurred lights, extremely grainy film texture, vintage analog noise, dramatic cinematic lighting.",
+    "featured": false,
+    "date": "2026-03-12",
+    "difficulty": "beginner",
+    "tool": [
+      "midjourney",
+      "dalle",
+      "stable-diffusion"
+    ],
+    "estimatedOutput": "AI generated cinematic portrait image"
+  },
+  {
+    "slug": "night-balcony-candid-triptych",
+    "title": "Night Balcony Candid Triptych",
+    "seoTitle": "Hyper Realistic Night Balcony Triptych AI Image Prompt",
+    "metaDescription": "Create a hyper-realistic three-frame smartphone-style candid portrait sequence on a balcony at night.",
+    "category": "images",
+    "tags": [
+      "triptych",
+      "portrait",
+      "night",
+      "smartphone-photography"
+    ],
+    "image": "night-balcony-candid-triptych.png",
+    "prompt": "A hyper-realistic vertical image split into three equal stacked frames (triptych) simulating candid smartphone photos at night. The subject is a young man with a slim face, short beard stubble, and dark hair swept to the side. Outfit: light white vertically striped button-down shirt with top buttons open and sleeves rolled to forearms, high-waisted black trousers, silver metal wristwatch on the left wrist. Setting: small outdoor balcony at night with wooden hand railing, concrete wall, lush green plants in background, and warm wall mounted lights. Frame 1: leaning casually on railing looking off-camera. Frame 2: turning toward the camera with a subtle smile. Frame 3: looking downward adjusting his cuff or laughing shyly. Style: raw smartphone photography with slight grain, natural lighting and realistic skin texture.",
+    "featured": false,
+    "date": "2026-03-12",
+    "difficulty": "intermediate",
+    "tool": [
+      "midjourney",
+      "dalle",
+      "stable-diffusion"
+    ],
+    "estimatedOutput": "AI generated photorealistic triptych image"
+  },
+  {
+    "slug": "cinematic-sunset-sea-portrait",
+    "title": "Cinematic Sunset Sea Portrait",
+    "seoTitle": "Cinematic 35mm Sunset Sea Portrait AI Image Prompt",
+    "metaDescription": "Generate a surreal cinematic portrait at sunset by the ocean with a vintage 35mm film aesthetic.",
+    "category": "images",
+    "tags": [
+      "cinematic",
+      "sunset",
+      "ocean",
+      "film-photography"
+    ],
+    "image": "cinematic-sunset-sea-portrait.png",
+    "prompt": "Create a wide cinematic surreal vertical 9:16 shot resembling a 35mm film photograph. Scene set at sunset by the sea with glowing horizon and vast ocean dominating the frame. The subject stands on textured coastal rocks near the waterline occupying around 20 percent of the composition, facing the setting sun at a relaxed three-quarter angle with face slightly turned toward the camera. Expression calm and introspective with soft eyes and relaxed lips. Lighting cinematic with golden rim light, shimmering ocean reflections, strong halation around the sun, and visible 35mm film grain. Wardrobe includes a loose white shirt partially unbuttoned and wide black trousers flowing in sea breeze. Composition layers foreground rocks, midground subject, and expansive ocean horizon in the background.",
+    "featured": true,
+    "date": "2026-03-12",
+    "difficulty": "advanced",
+    "tool": [
+      "midjourney",
+      "dalle",
+      "stable-diffusion"
+    ],
+    "estimatedOutput": "AI generated cinematic ocean portrait"
+  },
+  {
+    "slug": "levitating-spirit-surreal-portrait",
+    "title": "Levitating Spirit Surreal Portrait",
+    "seoTitle": "Levitating Surreal Spirit Portrait AI Image Prompt",
+    "metaDescription": "Create a dramatic surreal scene of a levitating man with ethereal mist forming a spiritual ghost figure.",
+    "category": "images",
+    "tags": [
+      "surreal",
+      "levitation",
+      "dark-art",
+      "cinematic-lighting"
+    ],
+    "image": "levitating-spirit-surreal-portrait.png",
+    "prompt": "Ultra realistic high contrast surreal scene of a young man levitating in mid air with body slightly tilted upward, eyes closed in a calm trance. Dramatic side lighting creates deep cinematic shadows. Ethereal mist rises from his chest and transforms into a translucent ghost floating above him made of luminous vapor and drifting mist looking down spiritually. Background is deep black with volumetric fog and light rays. Style is photorealistic with ultra detailed surreal atmosphere and cinematic lighting.",
+    "featured": true,
+    "date": "2026-03-12",
+    "difficulty": "intermediate",
+    "tool": [
+      "midjourney",
+      "dalle",
+      "stable-diffusion"
+    ],
+    "estimatedOutput": "AI generated surreal portrait artwork"
+  },
+  {
+    "slug": "night-balcony-portrait-collage",
+    "title": "Night Balcony Portrait Collage",
+    "seoTitle": "Ultra Realistic Night Balcony Portrait Collage AI Prompt",
+    "metaDescription": "Generate an ultra-realistic balcony portrait collage with cinematic night lighting and urban atmosphere.",
+    "category": "images",
+    "tags": [
+      "portrait",
+      "collage",
+      "night-photography",
+      "balcony"
+    ],
+    "image": "night-balcony-portrait-collage.png",
+    "prompt": "Ultra realistic nighttime balcony portrait collage of the same person with identical facial structure and features preserved. Layout is vertical 4:5 collage where the top half contains one wide frame and the bottom half is split into two equal vertical frames. Location is a modern apartment balcony at night with glass railing and wooden top rail, dense green plants behind and warm tungsten wall light on the right wall. Urban night sky visible in the background. Lighting soft and cinematic with realistic skin texture, subtle grain and natural shadows creating a candid portrait photography look.",
+    "featured": false,
+    "date": "2026-03-12",
+    "difficulty": "beginner",
+    "tool": [
+      "midjourney",
+      "dalle",
+      "stable-diffusion"
+    ],
+    "estimatedOutput": "AI generated portrait collage image"
+  }
+,
     {
         "slug": "youtube-script-writer",
         "title": "YouTube Script Writer",
@@ -1145,4 +1267,5 @@
         ],
         "estimatedOutput": "1200-1800 words"
     }
+
 ]
